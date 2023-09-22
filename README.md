@@ -6,7 +6,7 @@ This is a remake of the extremely popular Cleartext skin by redsaph. It has supp
 
 As always, right-click the skin and hit "Settings..." to change the settings.
 
-To learn how to set up your music player for Rainmeter skins, visit [this](https://adriaanjelle.github.io/rainmeter/how-to-set-up-your-music-player-with-rainmeter) page.
+To learn how to set up your music player for Rainmeter skins, visit [this](https://github.com/adriaanjelle/Cleartext-JD-Edition/wiki/How-to-set-up-your-music-player-with-Rainmeter) page.
 
 ----
 
