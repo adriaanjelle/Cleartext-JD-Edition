@@ -1,6 +1,7 @@
 # Cleartext (JD Edition)
 
-![](Cleartext-(JD-Edition)-1500px.jpg)
+![](Cleartext-(JD-Edition)-1500px.jpg)  
+![](https://img.shields.io/github/downloads/adriaanjelle/Cleartext-JD-Edition/total?style=for-the-badge&labelColor=212623&color=212623) [![](https://img.shields.io/badge/DeviantArt-FFFFFF?style=for-the-badge&logo=deviantart&logoColor=FFFFFF&color=05CC47)](https://www.deviantart.com/adriaanjelle/art/Cleartext-JD-Edition-983916381)
 
 This is a remake of the extremely popular Cleartext skin by redsaph. It has support for the most-used players, including Spotify. It also features smooth scrolling text! Just pick a song with a very long title and see what happens. You can disable it to save resources (recommended on laptops) if you want to.
 
